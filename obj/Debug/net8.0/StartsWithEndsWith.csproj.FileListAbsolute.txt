@@ -1,0 +1,14 @@
+C:\dev\dotnet\EstudoBase\StartsWithEndsWith\bin\Debug\net8.0\StartsWithEndsWith.exe
+C:\dev\dotnet\EstudoBase\StartsWithEndsWith\bin\Debug\net8.0\StartsWithEndsWith.deps.json
+C:\dev\dotnet\EstudoBase\StartsWithEndsWith\bin\Debug\net8.0\StartsWithEndsWith.runtimeconfig.json
+C:\dev\dotnet\EstudoBase\StartsWithEndsWith\bin\Debug\net8.0\StartsWithEndsWith.dll
+C:\dev\dotnet\EstudoBase\StartsWithEndsWith\bin\Debug\net8.0\StartsWithEndsWith.pdb
+C:\dev\dotnet\EstudoBase\StartsWithEndsWith\obj\Debug\net8.0\StartsWithEndsWith.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dotnet\EstudoBase\StartsWithEndsWith\obj\Debug\net8.0\StartsWithEndsWith.AssemblyInfoInputs.cache
+C:\dev\dotnet\EstudoBase\StartsWithEndsWith\obj\Debug\net8.0\StartsWithEndsWith.AssemblyInfo.cs
+C:\dev\dotnet\EstudoBase\StartsWithEndsWith\obj\Debug\net8.0\StartsWithEndsWith.csproj.CoreCompileInputs.cache
+C:\dev\dotnet\EstudoBase\StartsWithEndsWith\obj\Debug\net8.0\StartsWithEndsWith.dll
+C:\dev\dotnet\EstudoBase\StartsWithEndsWith\obj\Debug\net8.0\refint\StartsWithEndsWith.dll
+C:\dev\dotnet\EstudoBase\StartsWithEndsWith\obj\Debug\net8.0\StartsWithEndsWith.pdb
+C:\dev\dotnet\EstudoBase\StartsWithEndsWith\obj\Debug\net8.0\StartsWithEndsWith.genruntimeconfig.cache
+C:\dev\dotnet\EstudoBase\StartsWithEndsWith\obj\Debug\net8.0\ref\StartsWithEndsWith.dll
